@@ -1,0 +1,18 @@
+# Translation of Themes - Twenty Twenty-Two in Vietnamese
+# This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-08 08:12:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Twenty Twenty-Two\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme’s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you’re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours."
+msgstr "Được xây dựng trên một nền tảng vững chắc, Twenty Twenty-Two hướng đến việc giúp bất kỳ ai cũng có thể tạo ra một trang web mang dấu ấn riêng. Phong cách của giao diện này lấy cảm hứng từ sự đa dạng và linh hoạt của các loài chim, với hệ thống font chữ thanh thoát nhưng vẫn rõ ràng, bảng màu gần gũi với thiên nhiên và bố cục được sắp xếp nhẹ nhàng, hài hòa. Giá trị cốt lõi của Twenty Twenty-Two nằm ở khả năng tùy biến gần như vô hạn. Đặc biệt, giao diện này được thiết kế để tận dụng tối đa sức mạnh của Trình chỉnh sửa toàn trang (Site Editor) ra mắt từ WordPress 5.9, cho phép bạn tự do tùy chỉnh màu sắc, font chữ và bố cục cho từng trang riêng lẻ theo ý muốn. Bên cạnh đó, theme còn đi kèm hàng chục mẫu khối (block patterns), mở ra khả năng tạo nên những bố cục chuyên nghiệp chỉ với vài cú nhấp chuột. Dù bạn đang xây dựng website đơn trang (single-page), blog, website doanh nghiệp hay hồ sơ năng lực (portfolio), Twenty Twenty-Two sẽ giúp bạn tạo nên một trang web mang đậm dấu ấn cá nhân."
